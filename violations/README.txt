@@ -1,0 +1,1 @@
+The violations/ folder is used to store images of vehicles that violate parking rules. Every time the system detects a car parked outside of a valid parking zone.
